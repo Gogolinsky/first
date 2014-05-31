@@ -1,2 +1,2 @@
 <?php
-endwhile;
+echo "An apple";
